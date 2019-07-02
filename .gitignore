@@ -1,0 +1,15 @@
+# IDE config stuff
+.idea/
+*.iml
+.vscode/
+
+# pychache
+__pychache__/
+*.pyc
+
+# Misc
+*.clsfr
+tryit*
+.ipynb_checkpoints/
+*.sqlite
+.DS_Store
